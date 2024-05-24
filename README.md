@@ -1,9 +1,12 @@
-## Final Project Description
+### Final Project
+
+## Branding Description
 
 Final Project for Branding - Branded World Cup Trip software website and overall website look/presence
 Created brand look of software application that helps you plan your next World Cup Travels
 
-Brand elements include logo, website color palette, buttonography, iconagraphy, and overall website presence being its only form of public explosure. Unless expanded to an application software
+Brand elements include logo, website color palette, buttonography, iconagraphy, and overall website presence being its only form of public explosure. Unless expanded to an application software.
+- Designed UI elements such as gold flag to represent color of trophy. Stuck with vibrant colors due to FIFA World Cup Global Popularity 
 Additionally, css3 templates was utilized however built from scratch. This includes other imports, libraries, and embedded CSS scripts for layout design and theme adherance.
 
 ## Add your files
@@ -35,7 +38,7 @@ Browse to about
 
 Browse through webpage outlining brand design elements
 
-# Designed website from scratch alongside some UI elements, logo, and photos found on Unsplash and FIFA released information
+## Designed website from scratch alongside some UI elements, logo, and photos found on Unsplash and FIFA released information
 We hope to provide World Cup information based on user input and preferences. Users will be able to select different parameters such as city, date, national team, etc. and the webpage will return the matching information within’ a UI element on the website. In doing so, we can provide quick, accurate information based on user interests.  
 
 Matches will be played in 16 cities across 3 countries over a month. Spectators from all over the world will be looking for things to do during their vacation. Our website will help fans plan their World Cup trip by providing useful lodging, eating, transportation, and entertainment information and activities. 
