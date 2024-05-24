@@ -1,10 +1,11 @@
-# Created brand look of software application that helps you plan your next World Cup Travels
+## Final Project Description
 
-# Brand elements include logo, website color palette, buttonography, iconagraphy, and overall website presence being its only form of public explosure. Unless expanded to apps.
-# Additionally, css3 templates was utilized however built from scratch. This includes other imports, libraries, and embedded CSS scripts for layout design and theme adherance. `
-## Getting started
+Final Project for Branding - Branded World Cup Trip software website and overall website look/presence
+Created brand look of software application that helps you plan your next World Cup Travels
 
-Final Project for Branding - Brnaded World Cup Trip software website and overall website look/presence
+Brand elements include logo, website color palette, buttonography, iconagraphy, and overall website presence being its only form of public explosure. Unless expanded to an application software
+Additionally, css3 templates was utilized however built from scratch. This includes other imports, libraries, and embedded CSS scripts for layout design and theme adherance.
+
 ## Add your files
 
 - Download zip file attached to email
